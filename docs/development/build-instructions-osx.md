@@ -65,6 +65,8 @@ $ ./script/build.py --compdb
 
 ## Building
 
+Make sure you have Node.js and all the packages in XCode installed.
+
 Build both `Release` and `Debug` targets:
 
 ```sh
